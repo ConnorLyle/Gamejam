@@ -5,4 +5,4 @@ healthbarIndex = 0;
 playerHealth = 5;
 canSpell = true;
 cooltime = 4;
-mana = 4;
+mana = 5;
