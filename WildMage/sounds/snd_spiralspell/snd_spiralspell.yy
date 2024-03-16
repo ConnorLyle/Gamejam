@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_spiralspell",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":12.068571,
+  "name":"snd_spiralspell",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_spiralspell.mp3",
+  "type":0,
+  "volume":1.0,
+}
