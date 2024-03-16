@@ -26,11 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
     "name":"Spr_Solid",
     "path":"sprites/Spr_Solid/Spr_Solid.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
