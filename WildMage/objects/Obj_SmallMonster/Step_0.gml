@@ -11,5 +11,20 @@ direction=newdir
 if(hits <= 0) {
 	speed = 0;
 	sprite_index = Spr_SmallMonster_Attack;
+	
+	if (boom == false) {
+		instance_create_depth(x,y,0,Obj_BoomHitBox);
+		boom = true;
+	}
+	
 }
 
+if (sprite_index == Spr_SmallMonster_Attack) {
+
+if (image_index == 8) {
+	
+}
+
+	
+
+}

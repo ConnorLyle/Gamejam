@@ -3,7 +3,7 @@
   "%Name":"Obj_Firebolt",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Obj_SmallMonster","path":"objects/Obj_SmallMonster/Obj_SmallMonster.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Obj_Solid","path":"objects/Obj_Solid/Obj_Solid.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"Obj_Spellblock","path":"objects/Obj_Spellblock/Obj_Spellblock.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"Obj_Firebolt",
