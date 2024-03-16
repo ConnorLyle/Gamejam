@@ -5,7 +5,7 @@ mana += 1;
 
 
 
-if(mana != 5) {
+if(mana != 4) {
 	alarm[1] = 1*room_speed;
 }
 else {

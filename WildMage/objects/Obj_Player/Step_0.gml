@@ -7,6 +7,5 @@ room_goto(rMenu);
 
 
 if (mana == 0) {
-	mana = 1;
 	alarm[1] = 1*room_speed;
 }
