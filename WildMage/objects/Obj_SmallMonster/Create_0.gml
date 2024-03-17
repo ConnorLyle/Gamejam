@@ -3,3 +3,4 @@
 speed= 0.75
 boom = false;
 hits = 2;
+sound = true;

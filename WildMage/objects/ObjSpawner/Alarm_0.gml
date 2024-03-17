@@ -3,4 +3,4 @@
     var _x = random(room_width);
     var _y = random(room_height);
     instance_create_depth(_x, _y, 0, Obj_SmallMonster);
-alarm[0] = 20;
+alarm[0] = 40;

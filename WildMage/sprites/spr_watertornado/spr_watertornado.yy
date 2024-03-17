@@ -3,7 +3,7 @@
   "%Name":"spr_watertornado",
   "bboxMode":0,
   "bbox_bottom":72,
-  "bbox_left":7,
+  "bbox_left":0,
   "bbox_right":56,
   "bbox_top":0,
   "collisionKind":1,
@@ -16,6 +16,60 @@
     {"$GMSpriteFrame":"","%Name":"67b7ae86-88b1-4f61-99d0-ecabf31f3a18","name":"67b7ae86-88b1-4f61-99d0-ecabf31f3a18","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"8d35e27d-ea73-4849-b147-cb046adbfb7d","name":"8d35e27d-ea73-4849-b147-cb046adbfb7d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"49dbe479-3f45-4f3a-9762-38a1ed4cd790","name":"49dbe479-3f45-4f3a-9762-38a1ed4cd790","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"8210ca8b-6fcc-4680-9c23-127e5fd2448c","name":"8210ca8b-6fcc-4680-9c23-127e5fd2448c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"54ebaf02-9e3a-43ad-9554-26c72cc4e350","name":"54ebaf02-9e3a-43ad-9554-26c72cc4e350","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"9897ef2f-f29f-438a-aa6b-acf11b3c5eae","name":"9897ef2f-f29f-438a-aa6b-acf11b3c5eae","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d9c82d84-bfd0-45f2-94fc-395439d20e0c","name":"d9c82d84-bfd0-45f2-94fc-395439d20e0c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"6cf20218-d724-499a-b8e3-4750d4e46b31","name":"6cf20218-d724-499a-b8e3-4750d4e46b31","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"910e2697-f97c-42bb-bd97-9f423ecbb212","name":"910e2697-f97c-42bb-bd97-9f423ecbb212","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"7c1ce5f9-eca2-4550-9063-7fd10353aba5","name":"7c1ce5f9-eca2-4550-9063-7fd10353aba5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"176628eb-efdd-4eea-8e97-85050c73ff9b","name":"176628eb-efdd-4eea-8e97-85050c73ff9b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1a17a0f3-6c50-4a74-9208-0fd7fce579a0","name":"1a17a0f3-6c50-4a74-9208-0fd7fce579a0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"b1a779a3-6650-4ecf-9f03-8c3c3a8f9017","name":"b1a779a3-6650-4ecf-9f03-8c3c3a8f9017","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"46c407cf-5ee2-4800-9d05-bfb0212c4eec","name":"46c407cf-5ee2-4800-9d05-bfb0212c4eec","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"fc0358f0-c3b4-4f11-abcb-ad91152a2d54","name":"fc0358f0-c3b4-4f11-abcb-ad91152a2d54","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"bf9f5aee-fae2-4f49-bc4d-d8d7ce6a1a85","name":"bf9f5aee-fae2-4f49-bc4d-d8d7ce6a1a85","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"4e77e440-b8a8-4700-a0a6-e58c79db9d9d","name":"4e77e440-b8a8-4700-a0a6-e58c79db9d9d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"b8b276a1-8390-4547-ad49-6f8886c8a0db","name":"b8b276a1-8390-4547-ad49-6f8886c8a0db","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"113869c9-7821-4d60-b3c8-117898e61828","name":"113869c9-7821-4d60-b3c8-117898e61828","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ed0deeb8-4c44-421b-9cc8-53e8186ad6e1","name":"ed0deeb8-4c44-421b-9cc8-53e8186ad6e1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"e976961a-351f-4387-ad15-cbbfe0840d54","name":"e976961a-351f-4387-ad15-cbbfe0840d54","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"42c72cb1-afaf-4e16-bbc2-a13528ef6669","name":"42c72cb1-afaf-4e16-bbc2-a13528ef6669","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"dd96398a-07c6-47c0-b32e-67053e878299","name":"dd96398a-07c6-47c0-b32e-67053e878299","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"e992c692-a651-4a28-b495-ee8024641c9d","name":"e992c692-a651-4a28-b495-ee8024641c9d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d7192312-06fa-48b0-a311-6a1e4247d119","name":"d7192312-06fa-48b0-a311-6a1e4247d119","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"608253d1-482a-43f9-b44a-2eef24c819be","name":"608253d1-482a-43f9-b44a-2eef24c819be","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"4e2cc78e-55fb-437c-83ae-8dc1f107b1b9","name":"4e2cc78e-55fb-437c-83ae-8dc1f107b1b9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"e07afbd3-430c-4440-aba2-4fcda2054bcd","name":"e07afbd3-430c-4440-aba2-4fcda2054bcd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1a757d14-db91-46b1-a8bc-1922f979d259","name":"1a757d14-db91-46b1-a8bc-1922f979d259","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"e5cf4452-5053-4f19-9062-98ef7f2ccd78","name":"e5cf4452-5053-4f19-9062-98ef7f2ccd78","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"26273d80-bae2-477d-b73f-9f71c5285455","name":"26273d80-bae2-477d-b73f-9f71c5285455","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"655f4c6a-cf87-4cfc-a497-9de42b6ec314","name":"655f4c6a-cf87-4cfc-a497-9de42b6ec314","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"104cdb9c-52b6-4e83-b5c2-ebde52f84724","name":"104cdb9c-52b6-4e83-b5c2-ebde52f84724","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"f8ac234d-4fa0-4908-84af-ddb6dad99afa","name":"f8ac234d-4fa0-4908-84af-ddb6dad99afa","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"4396ccab-0f3f-40cb-8c06-819e4401507a","name":"4396ccab-0f3f-40cb-8c06-819e4401507a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"02b07314-7cab-4ba9-bb60-43e26e4b760b","name":"02b07314-7cab-4ba9-bb60-43e26e4b760b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"12af05c9-1d59-4c32-b5ae-f3fc30f84e7c","name":"12af05c9-1d59-4c32-b5ae-f3fc30f84e7c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"75f569b7-cdb7-46fe-b460-c91b6fa50bee","name":"75f569b7-cdb7-46fe-b460-c91b6fa50bee","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"dbe3a67a-b177-45bc-9c5e-e5a150acce1b","name":"dbe3a67a-b177-45bc-9c5e-e5a150acce1b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"26110ee4-a812-49fe-94ba-5e12ce4ac38f","name":"26110ee4-a812-49fe-94ba-5e12ce4ac38f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"a2552d6d-7d54-4de1-b6cf-73a629f64b96","name":"a2552d6d-7d54-4de1-b6cf-73a629f64b96","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"62d72510-b355-45f4-8b08-794ded3c6ea4","name":"62d72510-b355-45f4-8b08-794ded3c6ea4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ad1b59e4-a14b-4e05-8ec1-8f86914804f1","name":"ad1b59e4-a14b-4e05-8ec1-8f86914804f1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"6b02ce12-62c9-4e01-9312-09172ce6208b","name":"6b02ce12-62c9-4e01-9312-09172ce6208b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"0363845a-814c-4567-89ae-6bc14199e271","name":"0363845a-814c-4567-89ae-6bc14199e271","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"38c19a1d-8a8c-43e1-b92c-9347183626ea","name":"38c19a1d-8a8c-43e1-b92c-9347183626ea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d2ada793-ce24-4aa6-9e3b-40508085c643","name":"d2ada793-ce24-4aa6-9e3b-40508085c643","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1e068ee2-a981-416f-b79e-95b01b0f4458","name":"1e068ee2-a981-416f-b79e-95b01b0f4458","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"87fb3144-f88c-437e-ba3e-4af763c125cd","name":"87fb3144-f88c-437e-ba3e-4af763c125cd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"1ff86a70-42e4-402a-9698-3b920373c58b","name":"1ff86a70-42e4-402a-9698-3b920373c58b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"a5595bae-4a12-4d2d-8d66-fdee8a1d7c8d","name":"a5595bae-4a12-4d2d-8d66-fdee8a1d7c8d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d4805fea-8d24-4ec9-a352-ddef63af79ae","name":"d4805fea-8d24-4ec9-a352-ddef63af79ae","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"39976fec-1220-4ce1-a1af-90eb0b8588a2","name":"39976fec-1220-4ce1-a1af-90eb0b8588a2","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"a265b86a-92ca-49a3-99f1-362dd89db2b6","name":"a265b86a-92ca-49a3-99f1-362dd89db2b6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"057a53a1-247a-438f-9e45-38e8c8c5c274","name":"057a53a1-247a-438f-9e45-38e8c8c5c274","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"7b50150a-dfcd-4b2e-ba29-25e3e88a5835","name":"7b50150a-dfcd-4b2e-ba29-25e3e88a5835","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"6a4b42d6-fd4d-4bec-8f60-88cfa77f1b41","name":"6a4b42d6-fd4d-4bec-8f60-88cfa77f1b41","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -52,7 +106,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":4.0,
+    "length":58.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -62,7 +116,7 @@
     },
     "name":"spr_watertornado",
     "playback":1,
-    "playbackSpeed":15.0,
+    "playbackSpeed":10.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -83,6 +137,168 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"49dbe479-3f45-4f3a-9762-38a1ed4cd790","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"64bd49b4-dbb3-41f6-8d5e-8c37a8ffb66e","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8210ca8b-6fcc-4680-9c23-127e5fd2448c","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"0ec1b016-3fc2-4b68-abec-032b43ee5764","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"54ebaf02-9e3a-43ad-9554-26c72cc4e350","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"4df4ace1-41e0-4032-becb-4d903e0940fe","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9897ef2f-f29f-438a-aa6b-acf11b3c5eae","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"054dce57-b64a-4108-8f1a-90715b552a94","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d9c82d84-bfd0-45f2-94fc-395439d20e0c","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a4a3b8a3-5c05-41d1-aeb5-acad4215ce61","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6cf20218-d724-499a-b8e3-4750d4e46b31","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"47d41380-aa6d-4360-928e-34bd91d7267f","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"910e2697-f97c-42bb-bd97-9f423ecbb212","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"472c9e86-1369-4f07-9a0e-a777111cbc57","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7c1ce5f9-eca2-4550-9063-7fd10353aba5","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"4431822f-b65f-4eb6-bc32-105ae3984e98","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"176628eb-efdd-4eea-8e97-85050c73ff9b","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"750c37fc-4d2b-433b-93a1-9b206216ae9c","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1a17a0f3-6c50-4a74-9208-0fd7fce579a0","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"e26b77cd-029c-4f5d-be3a-baf3eb75ef35","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b1a779a3-6650-4ecf-9f03-8c3c3a8f9017","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c6ab5fba-1c59-4dd4-a151-4a81c9c097b5","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"46c407cf-5ee2-4800-9d05-bfb0212c4eec","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c87daf9c-835d-472e-89f7-9119a0164837","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fc0358f0-c3b4-4f11-abcb-ad91152a2d54","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"8860fade-0c8c-41e9-b032-bb9c345a2e0f","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bf9f5aee-fae2-4f49-bc4d-d8d7ce6a1a85","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"99b085dd-ba87-4d21-9629-f2f760d7bbe5","IsCreationKey":false,"Key":16.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4e77e440-b8a8-4700-a0a6-e58c79db9d9d","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"297f5aa6-46d0-4622-993c-8c9c49552d04","IsCreationKey":false,"Key":17.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b8b276a1-8390-4547-ad49-6f8886c8a0db","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"8888faf5-9afe-4747-ac3e-f1d5486e7b2e","IsCreationKey":false,"Key":18.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"113869c9-7821-4d60-b3c8-117898e61828","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a89d8b93-c091-4edf-8f96-c080e188a787","IsCreationKey":false,"Key":19.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ed0deeb8-4c44-421b-9cc8-53e8186ad6e1","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a391ab26-3b88-4c9b-8450-b6c84fcef751","IsCreationKey":false,"Key":20.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e976961a-351f-4387-ad15-cbbfe0840d54","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"89846033-76bc-43f1-be6d-36cd1492dd03","IsCreationKey":false,"Key":21.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"42c72cb1-afaf-4e16-bbc2-a13528ef6669","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"7b425896-a023-4be9-b74c-5a52cb268b76","IsCreationKey":false,"Key":22.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dd96398a-07c6-47c0-b32e-67053e878299","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"37f25721-b6da-4282-a5c0-dd0ac213109f","IsCreationKey":false,"Key":23.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e992c692-a651-4a28-b495-ee8024641c9d","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a33b35dd-a27b-4ef3-b3b6-5275ac626d81","IsCreationKey":false,"Key":24.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d7192312-06fa-48b0-a311-6a1e4247d119","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"ebcce715-a939-4ac6-94c9-719d61be68e3","IsCreationKey":false,"Key":25.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"608253d1-482a-43f9-b44a-2eef24c819be","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"6f2985c8-7bd0-42d8-a79a-f195f6eb1081","IsCreationKey":false,"Key":26.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4e2cc78e-55fb-437c-83ae-8dc1f107b1b9","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"17034280-413f-459e-a0ce-e877c4bb56cd","IsCreationKey":false,"Key":27.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e07afbd3-430c-4440-aba2-4fcda2054bcd","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"da7f841d-bfb7-4743-b039-aa1052dbd09d","IsCreationKey":false,"Key":28.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1a757d14-db91-46b1-a8bc-1922f979d259","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"86313a6b-dbfe-4639-ad38-c01a98e2f623","IsCreationKey":false,"Key":29.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e5cf4452-5053-4f19-9062-98ef7f2ccd78","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"8a66037c-6747-4be4-bc17-4df94a58a21e","IsCreationKey":false,"Key":30.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"26273d80-bae2-477d-b73f-9f71c5285455","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c297c504-a9f3-4f6e-95c0-6fe19b174d2f","IsCreationKey":false,"Key":31.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"655f4c6a-cf87-4cfc-a497-9de42b6ec314","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b1ea4ad5-15df-45f0-9a20-4fb2f13ded9f","IsCreationKey":false,"Key":32.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"104cdb9c-52b6-4e83-b5c2-ebde52f84724","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"98b84564-6f2c-4d22-a065-59f1148468ee","IsCreationKey":false,"Key":33.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f8ac234d-4fa0-4908-84af-ddb6dad99afa","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"2cf5881e-5003-4ef6-a342-5ebfcbd9e0d5","IsCreationKey":false,"Key":34.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4396ccab-0f3f-40cb-8c06-819e4401507a","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3afc62e7-d1d8-4c89-9443-7aa3ef9d9d8d","IsCreationKey":false,"Key":35.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"02b07314-7cab-4ba9-bb60-43e26e4b760b","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"2a92320b-e0bc-4a63-8af1-1c8965674541","IsCreationKey":false,"Key":36.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"12af05c9-1d59-4c32-b5ae-f3fc30f84e7c","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"afb7d9a9-3819-4330-a73b-9c0e27c1a2c0","IsCreationKey":false,"Key":37.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"75f569b7-cdb7-46fe-b460-c91b6fa50bee","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"26c21c2c-9348-46b8-838d-97e504cfea8e","IsCreationKey":false,"Key":38.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dbe3a67a-b177-45bc-9c5e-e5a150acce1b","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"ba1244c3-55e8-4bbe-ace7-6b96fe870292","IsCreationKey":false,"Key":39.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"26110ee4-a812-49fe-94ba-5e12ce4ac38f","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"1800419c-2a34-467f-89e1-b76ac81a8624","IsCreationKey":false,"Key":40.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a2552d6d-7d54-4de1-b6cf-73a629f64b96","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"4a5ff6a1-903e-41dd-bd52-0ac7e634d9b4","IsCreationKey":false,"Key":41.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"62d72510-b355-45f4-8b08-794ded3c6ea4","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"0a855bc8-d722-4f62-b113-d98b2ec099bb","IsCreationKey":false,"Key":42.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ad1b59e4-a14b-4e05-8ec1-8f86914804f1","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a8203c0e-dbd0-4b5e-8184-43a0eeacd5e3","IsCreationKey":false,"Key":43.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6b02ce12-62c9-4e01-9312-09172ce6208b","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d26f5b9e-7924-468e-b691-2d3ddc6dcabc","IsCreationKey":false,"Key":44.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0363845a-814c-4567-89ae-6bc14199e271","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"2b27ac30-2a21-459e-96fc-1e89920a27f0","IsCreationKey":false,"Key":45.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"38c19a1d-8a8c-43e1-b92c-9347183626ea","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"bf4a8f8c-d19b-4c3d-9062-c9732103b5c1","IsCreationKey":false,"Key":46.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d2ada793-ce24-4aa6-9e3b-40508085c643","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"85f499f3-a335-481c-8258-347a425b2269","IsCreationKey":false,"Key":47.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1e068ee2-a981-416f-b79e-95b01b0f4458","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a0835f80-200e-4123-8f29-6adf00610688","IsCreationKey":false,"Key":48.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"87fb3144-f88c-437e-ba3e-4af763c125cd","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"ed279ee7-8ae2-441a-b63f-b1a87cc9b626","IsCreationKey":false,"Key":49.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1ff86a70-42e4-402a-9698-3b920373c58b","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"faeedb6b-961d-4959-9bf0-4b27fbaf6e66","IsCreationKey":false,"Key":50.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a5595bae-4a12-4d2d-8d66-fdee8a1d7c8d","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3da03c58-6561-47f2-88b0-df87a3d9fea0","IsCreationKey":false,"Key":51.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d4805fea-8d24-4ec9-a352-ddef63af79ae","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d59934a4-f5b2-4ce9-b478-1a2ae44761a6","IsCreationKey":false,"Key":52.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"39976fec-1220-4ce1-a1af-90eb0b8588a2","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"364a225a-1918-44ce-9d07-740034ea1768","IsCreationKey":false,"Key":53.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a265b86a-92ca-49a3-99f1-362dd89db2b6","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"0f8cbc85-d88b-45db-be00-03d473eb6e33","IsCreationKey":false,"Key":54.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"057a53a1-247a-438f-9e45-38e8c8c5c274","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"da406a08-1bce-4018-8d2d-47531a92574b","IsCreationKey":false,"Key":55.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7b50150a-dfcd-4b2e-ba29-25e3e88a5835","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"c6591373-4993-42a3-a87a-3d8eb9ad761d","IsCreationKey":false,"Key":56.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6a4b42d6-fd4d-4bec-8f60-88cfa77f1b41","path":"sprites/spr_watertornado/spr_watertornado.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"d036a798-1bc6-414e-990a-9a76bcc6dfdb","IsCreationKey":false,"Key":57.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

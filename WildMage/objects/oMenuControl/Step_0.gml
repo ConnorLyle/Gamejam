@@ -18,12 +18,14 @@ if keyboard_check_pressed(menu_confirmation_buttom) {
 	switch(selected) {
 		case 0:	// case of the first  item of the menu
 			room_goto(Room1);
+			audio_stop_all();
+			audio_play_sound(snd_Fighttheme, 100, true)
 			break;
 		case 1:	// case of the second one 
-			// add code of what to do when confirming this item
+			room_goto(rControls);
 			break;
 		case 2:	// case of the thrid one 
-			// add code of what to do when confirming this item
+			room_goto(rCredits);
 			break;
 		case 3: // you get it
 			game_end();

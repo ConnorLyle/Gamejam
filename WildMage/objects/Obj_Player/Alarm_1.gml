@@ -5,9 +5,9 @@ mana += 1;
 
 
 
-if(mana != 4) {
+if(mana != 5) {
 	alarm[1] = 1*room_speed;
 }
-else {
+if (mana = 5) {
 canSpell = true;	
 }

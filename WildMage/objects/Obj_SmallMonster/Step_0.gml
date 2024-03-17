@@ -12,6 +12,11 @@ if(hits <= 0) {
 	speed = 0;
 	sprite_index = Spr_SmallMonster_Attack;
 	
+	if (sound == true){
+audio_play_sound(snd_smallexplode,100,false)
+sound = false
+}
+	
 	if (boom == false) {
 		instance_create_depth(x,y,0,Obj_BoomHitBox);
 		boom = true;
