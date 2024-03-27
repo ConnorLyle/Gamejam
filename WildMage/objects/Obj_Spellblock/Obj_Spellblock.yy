@@ -32,5 +32,5 @@
     "path":"sprites/Spr_Spellblock/Spr_Spellblock.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

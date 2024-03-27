@@ -34,5 +34,5 @@
     "path":"sprites/Spr_Solid/Spr_Solid.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

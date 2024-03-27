@@ -2,10 +2,10 @@
   "$GMSprite":"",
   "%Name":"Spr_TurretMonster_Attack",
   "bboxMode":0,
-  "bbox_bottom":475,
-  "bbox_left":19,
-  "bbox_right":641,
-  "bbox_top":128,
+  "bbox_bottom":105,
+  "bbox_left":0,
+  "bbox_right":142,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -16,6 +16,15 @@
     {"$GMSpriteFrame":"","%Name":"f45d12c3-93f5-43ce-af7e-96b926fec507","name":"f45d12c3-93f5-43ce-af7e-96b926fec507","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"74138b9f-cbc2-430b-b9c2-88c728bbdad4","name":"74138b9f-cbc2-430b-b9c2-88c728bbdad4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"8208d048-2d06-4c7f-8915-8c320d2bdd1a","name":"8208d048-2d06-4c7f-8915-8c320d2bdd1a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c706e706-d6bc-4327-9fb1-d2813483eab0","name":"c706e706-d6bc-4327-9fb1-d2813483eab0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"73720446-766e-4d5c-bfea-bec4f212e517","name":"73720446-766e-4d5c-bfea-bec4f212e517","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ce21c87b-e6d1-4e0a-9e0c-6591373e14e4","name":"ce21c87b-e6d1-4e0a-9e0c-6591373e14e4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ff289025-7192-462c-bb92-832fa7be7a59","name":"ff289025-7192-462c-bb92-832fa7be7a59","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"fdd150f9-27f1-49da-8c0b-b08ef58d112c","name":"fdd150f9-27f1-49da-8c0b-b08ef58d112c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"29d244bc-1d4e-423d-b24b-dfc7be8118b7","name":"29d244bc-1d4e-423d-b24b-dfc7be8118b7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"c4b4d8d1-4cb8-4e15-8d70-bff33666aff6","name":"c4b4d8d1-4cb8-4e15-8d70-bff33666aff6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"22c0a785-893d-4414-ac54-a49cc0adb552","name":"22c0a785-893d-4414-ac54-a49cc0adb552","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"191fee61-4fb6-46a6-a765-e1a4f7c46a4b","name":"191fee61-4fb6-46a6-a765-e1a4f7c46a4b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"801cc0ca-b915-44cf-966c-5a6dedd92da0","name":"801cc0ca-b915-44cf-966c-5a6dedd92da0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"d6a5f508-1945-4d9c-8d33-a0c17695b79a","name":"d6a5f508-1945-4d9c-8d33-a0c17695b79a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"90d26776-4f3f-43aa-9ce0-7ff634a86b40","name":"90d26776-4f3f-43aa-9ce0-7ff634a86b40","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
@@ -32,7 +41,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":900,
+  "height":200,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"2f217b9a-823c-44f9-8a85-580ceb68e377","blendMode":0,"displayName":"default","isLocked":false,"name":"2f217b9a-823c-44f9-8a85-580ceb68e377","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -65,7 +74,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":17.0,
+    "length":26.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -97,50 +106,77 @@
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8208d048-2d06-4c7f-8915-8c320d2bdd1a","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"9e224ae4-6936-494b-b458-2e262010a052","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c706e706-d6bc-4327-9fb1-d2813483eab0","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"7a0b4ad5-13de-46aa-ba36-4b5b096271e1","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"73720446-766e-4d5c-bfea-bec4f212e517","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"06d15f85-f515-4c79-a8db-9342e9221a0b","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ce21c87b-e6d1-4e0a-9e0c-6591373e14e4","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"534799b5-ea8f-4730-982b-d41650584aba","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ff289025-7192-462c-bb92-832fa7be7a59","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"ccf422f0-3c28-45a8-bd49-5faeaedd6c43","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fdd150f9-27f1-49da-8c0b-b08ef58d112c","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"35fa5cea-8d49-48c2-801b-a3d1d32f892d","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"29d244bc-1d4e-423d-b24b-dfc7be8118b7","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a21957e4-3164-4f51-8a00-a1b4fb048685","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c4b4d8d1-4cb8-4e15-8d70-bff33666aff6","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"9ecf4f87-90a1-427e-829a-edf238d0d265","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"22c0a785-893d-4414-ac54-a49cc0adb552","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"46ea5ee1-bfff-4047-8ec6-3627c0288842","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"191fee61-4fb6-46a6-a765-e1a4f7c46a4b","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"7d08bc36-94ed-4f91-9190-d77fac7a1e39","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"801cc0ca-b915-44cf-966c-5a6dedd92da0","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"bda72080-79c0-4a2d-9760-1fa887125582","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"bda72080-79c0-4a2d-9760-1fa887125582","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d6a5f508-1945-4d9c-8d33-a0c17695b79a","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"b57f54bd-970c-411d-b3b5-719477577566","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"b57f54bd-970c-411d-b3b5-719477577566","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"90d26776-4f3f-43aa-9ce0-7ff634a86b40","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"325e7c70-d5db-48a5-9fd5-e6c0f986e7d6","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"325e7c70-d5db-48a5-9fd5-e6c0f986e7d6","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ed75a5e7-c65f-4539-85b2-7aa612530491","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"78f5484e-c0b4-450d-977c-dac6b59869d4","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"78f5484e-c0b4-450d-977c-dac6b59869d4","IsCreationKey":false,"Key":16.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0ea09082-7ccb-4cd1-8022-84aac7a85d40","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"12a24140-75e5-4918-9cf3-ddd711f5fe21","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"12a24140-75e5-4918-9cf3-ddd711f5fe21","IsCreationKey":false,"Key":17.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4969e3c4-f0b6-4ce3-8f77-f7398850d43a","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"8cec4690-7233-4240-a80a-95cfe28a53f3","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"8cec4690-7233-4240-a80a-95cfe28a53f3","IsCreationKey":false,"Key":18.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f69f0f25-eb11-4cd0-8eb4-e60f948c8cb8","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"34e79f10-28bc-4c7b-9d4a-75dc0f398a17","IsCreationKey":false,"Key":10.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"34e79f10-28bc-4c7b-9d4a-75dc0f398a17","IsCreationKey":false,"Key":19.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4e775e07-cd8c-4c32-9d16-2a20d4fe6b54","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"dceb6d83-fc5a-45d8-935b-3d7c81e41851","IsCreationKey":false,"Key":11.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"dceb6d83-fc5a-45d8-935b-3d7c81e41851","IsCreationKey":false,"Key":20.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"83445619-9988-41cc-9476-aa27ef402dc0","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"4281ed4f-b12f-4dd3-b42f-02eb07cd9fa1","IsCreationKey":false,"Key":12.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"4281ed4f-b12f-4dd3-b42f-02eb07cd9fa1","IsCreationKey":false,"Key":21.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"652f5f51-93d9-4f13-be9b-b7968ec8d066","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"303ba584-a773-4dbe-9dff-7bab1a4ca368","IsCreationKey":false,"Key":13.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"303ba584-a773-4dbe-9dff-7bab1a4ca368","IsCreationKey":false,"Key":22.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bda085e6-b291-4596-8add-b82c18361b0c","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"eb4effba-3ad7-4cec-a059-663d3145566f","IsCreationKey":false,"Key":14.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"eb4effba-3ad7-4cec-a059-663d3145566f","IsCreationKey":false,"Key":23.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"501534d9-af7d-44ef-b01e-8d80381914fd","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"5b622dc2-3c56-457c-b338-97690d1ff359","IsCreationKey":false,"Key":15.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"5b622dc2-3c56-457c-b338-97690d1ff359","IsCreationKey":false,"Key":24.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"937c3ce3-309f-42da-b64b-1091bfae2056","path":"sprites/Spr_TurretMonster_Attack/Spr_TurretMonster_Attack.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"04ce75bf-f5b6-404d-b3a0-970146a1e5d4","IsCreationKey":false,"Key":16.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+              },"Disabled":false,"id":"04ce75bf-f5b6-404d-b3a0-970146a1e5d4","IsCreationKey":false,"Key":25.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":474,
-    "yorigin":353,
+    "xorigin":105,
+    "yorigin":78,
   },
   "swatchColours":null,
   "swfPrecision":0.5,
@@ -150,5 +186,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":900,
+  "width":200,
 }

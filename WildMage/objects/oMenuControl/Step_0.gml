@@ -22,7 +22,7 @@ if keyboard_check_pressed(menu_confirmation_buttom) {
 			audio_play_sound(snd_Fighttheme, 100, true)
 			break;
 		case 1:	// case of the second one 
-			room_goto(rControls);
+			room_goto(ControlScreen);
 			break;
 		case 2:	// case of the thrid one 
 			room_goto(rCredits);

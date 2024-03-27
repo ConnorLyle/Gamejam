@@ -12,3 +12,4 @@ global.speed = 1;
 boost = 1;
 global.drunk =1;
 drunk = 1;
+global.score = 0;

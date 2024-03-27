@@ -16,3 +16,9 @@ if keyboard_check(ord("A") and  global.drunk = 2)
     x = (x + walkSpeed) ;
 	sprite_index = Spr_Player_WalkRight;
 }
+if keyboard_check(ord("A") and  global.drunk = 2 and global.speed = 2)
+{
+
+    x = (x + walkSpeed * 2) ;
+    sprite_index = Spr_Player_WalkRight;
+}
